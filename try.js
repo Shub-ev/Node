@@ -1,4 +1,2 @@
-const path = require('path');
-
-console.log(__dirname);
-console.log(__filename);
+const os = require('./05_mind_grenade');
+const allNames = require('./04_exports');
